@@ -32,5 +32,3 @@ The answer is fluent, plausible, and silently resolved an ambiguity the user nev
 > - **Women's field:** [name], [value, source: WPBA/WPA records]
 >
 > On the closest thing to a gender-neutral skill measure, [break-and-run % / balls-per-inning] in tracked competition, the figures are [X] and [Y]. Those come from different event pools and are not strictly comparable.
->
-> If you meant one specific field or metric, say which and I'll narrow it.
